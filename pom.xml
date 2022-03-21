@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.87.209.124:8088/repository/eBay-BTS-Release/</url>
+	      <url>http://54.210.147.20:8088/repository/Mudvii-Fintech-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.209.124:8088/repository/eBay_BTS_Snapshot/</url>
+	      <url>http://54.210.147.20:8088/repository/Mudvii-Fintech-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
